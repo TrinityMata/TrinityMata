@@ -5,5 +5,6 @@ I have worked on various projects such as programming audio plugins and creating
 Check out a few of my projects on my website: URL HERE 
 
 If you want to contact me, you can reach me at trinity.m.mata@gmail.com
-LinkedIN: https://www.linkedin.com/in/trinity-mata/
+
+LinkedIn: https://www.linkedin.com/in/trinity-mata/
 
